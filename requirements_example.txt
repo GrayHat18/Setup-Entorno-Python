@@ -1,0 +1,6 @@
+# Requerimientos básicos de ejemplo
+# Copia este archivo como requirements.txt si deseas usar estas dependencias
+
+pandas>=2.0.0
+openpyxl>=3.1.0
+requests>=2.31.0

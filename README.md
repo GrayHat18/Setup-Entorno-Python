@@ -18,3 +18,22 @@ Código Python para **crear, configurar e instalar automaticamente** un entorno 
    ```bash
    git clone https://github.com/GrayHat18/Setup-Entorno-Python.git
    cd Setup-Entorno-Python
+2. Ejecutar el script:
+   ```bash
+   python setup_env.py
+3. Activar el entorno virtual:
+   - Window:
+     ```bash
+     venv\Scripts\activate
+   - Linux/macOS:
+     ```bash
+     source venv/bin/activate
+
+## 📦 Requisitos
+1. Tener Python 3.9 o superior instalado en el sistema operativo
+2. Tener permisos para crear carpetas y ejecutar scripts locales
+
+## 🧠 Autor
+**GrayHat18**
+_Desarrollador backend, arquitecto de sistemas y motivado por la automatización digital._
+💻 https://github.com/GrayHat18
